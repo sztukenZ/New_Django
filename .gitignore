@@ -1,0 +1,6 @@
+# Project exclude paths
+/my_env/
+.idea
+/Django-4-by-example-main.zip/
+/Django-4-by-example-main
+/mysite/db.sqlite3
