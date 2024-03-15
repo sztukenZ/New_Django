@@ -5,3 +5,5 @@
 /Django-4-by-example-main
 /mysite/db.sqlite3
 /mys
+.env
+/mysite/.env
